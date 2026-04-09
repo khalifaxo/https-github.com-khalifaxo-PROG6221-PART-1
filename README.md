@@ -21,10 +21,11 @@ This is a C# console chatbot designed to educate users about cybersecurity topic
 3. Run the program
 
 🎥 Presentation Video
-[Paste YouTube Link Here]
+https://youtu.be/geNTWJ0hNVM?si=5gdeN0hW0Gt-XDwp 
 
 ✅ GitHub Actions CI
-(Add screenshot of green check here)
+
+<img width="1368" height="768" alt="CI" src="https://github.com/user-attachments/assets/bbb988a8-0094-4f6f-8f73-96f1dae85146" />
 
 📁 Assets
 - greeting.wav (voice greeting)
