@@ -25,7 +25,8 @@ https://youtu.be/geNTWJ0hNVM?si=5gdeN0hW0Gt-XDwp
 
 ✅ GitHub Actions CI
 
-<img width="1368" height="768" alt="CI" src="https://github.com/user-attachments/assets/bbb988a8-0094-4f6f-8f73-96f1dae85146" />
+<img width="1368" height="675" alt="CI" src="https://github.com/user-attachments/assets/7066fe24-f07b-4601-bf33-30686ec3b908" />
+
 
 📁 Assets
 - greeting.wav (voice greeting)
